@@ -2,7 +2,7 @@
 
 ForkThatGit i.e _Fork that Git(Hub repository)_
 
-This is a script/tool developed in Bash (compatible on all Unices) to ease the fork-rename process of any GitHub repository de
+This is a script/tool developed in Bash (compatible with all Unices) to ease the fork-rename process of any GitHub repository.
 
 **usage:**
 
