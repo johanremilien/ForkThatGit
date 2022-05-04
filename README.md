@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e8806bde83914012bcc160d192763fcc)](https://app.codacy.com/gh/johanremilien/ForkThatGit?utm_source=github.com&utm_medium=referral&utm_content=johanremilien/ForkThatGit&utm_campaign=Badge_Grade_Settings)
+
 # ForkThatGit (POC)
 
 ForkThatGit i.e _Fork that Git(Hub repository)_
